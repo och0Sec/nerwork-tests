@@ -71,4 +71,4 @@ iperf_results\Burst_1s.log
 ## Support
 
 * Script issues: open an issue on this repo
-* Questions: contact your network team or [author@example.com](mailto:author@example.com)
+* Questions: contact your network team or [oto@otoricardo.com](mailto:oto@otoricardo.com)
